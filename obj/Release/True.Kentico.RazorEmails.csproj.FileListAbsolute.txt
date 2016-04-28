@@ -1,0 +1,14 @@
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\True.Kentico.RazorEmails.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\True.Kentico.RazorEmails.pdb
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\CMS.Base.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\CMS.DataEngine.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\CMS.EmailEngine.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\CMS.MacroEngine.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\CMS.SiteProvider.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\RazorEngine.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\System.Web.Razor.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\RazorEngine.xml
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\bin\Release\System.Web.Razor.xml
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\obj\Release\True.Kentico.RazorEmails.csprojResolveAssemblyReference.cache
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\obj\Release\True.Kentico.RazorEmails.dll
+C:\Development\clients\True\Libraries\True.Kentico.RazorEmails\True.Kentico.RazorEmails\obj\Release\True.Kentico.RazorEmails.pdb
